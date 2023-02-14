@@ -1,0 +1,25 @@
+{
+  "name": "footergenerator_forjavascriptapp",
+  "version": "0.1.0",
+  "description": "This allows for a dynamic footer to be generated for JavaScript App with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Solkind/DevCampJSFooter_JGM.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Jared Mitchell <jgmitch@hotmail.com> (https://github.com/Solkind)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Solkind/DevCampJSFooter_JGM/issues"
+  },
+  "homepage": "https://github.com/Solkind/DevCampJSFooter_JGM#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
